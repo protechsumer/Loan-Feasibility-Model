@@ -1,0 +1,2 @@
+# Loan-Feasibility-Model
+Loan Prediction problem is a classification problem performed on the datasets which consists of independent and dependent features. After the analysis on the train dataset and using various classification model, the user can select the best model on the basis of accuracy score given by respective model. The selected model then can be used on the test data to predict if the loan can be approved or not.
